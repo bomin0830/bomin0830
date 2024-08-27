@@ -12,6 +12,9 @@ PR을 꼼꼼하게 작성하고 코드를 깔끔하게 다듬으며 팀원에게
 무한스크롤, 토큰 관리와 같이 충분히 고민하며 새로운 지식을 얻고 원하는 결과가 나왔을 때의 성취감을 좋아합니다.
 
 
+<br></br>
+
+
 🗄️ 참여한 프로젝트 리포지토리 목록입니다
 - 글로벌 노마드 : https://github.com/eunji-0623/GlobalNomad
 - TASKIFY : https://github.com/codeit-project-9/taskify
